@@ -10,3 +10,5 @@ The growth of supermarkets in most populated cities are increasing and market co
   3. Differentiate customer behaviour of male and female customers.
   4. Identify the pest performing product line.
  
+ 
+ ### Build visualisation dashboards in tableau to highlight supermarket performance.
