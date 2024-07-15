@@ -5,7 +5,7 @@ This report presents a comprehensive analysis of sales data from a supermarket c
 
 ### Branch Performance
 
-The analysis reveals that Branch 'C' located in Naypyitaw not only achieves the highest gross income but also records the highest total sales compared to the other branches. This indicates a strong market presence in Naypyitaw and possibly better management or more favorable market conditions compared to Yangon and Mandalay, where performance metrics are notably similar to each other.
+The analysis reveals that Branch 'C' located in Naypyitaw not only achieves the highest gross income but also records the highest total sales compared to the other branches. This indicates a strong market presence in Naypyitaw and possibly better management or more favourable market conditions compared to Yangon and Mandalay, where performance metrics are notably similar to each other.
 
 ### Customer Insights
 
@@ -19,7 +19,7 @@ The product line analysis shows that Food and Beverages generate the highest inc
 
 ### Payment Preferences
 
-Payment method preferences vary by city and customer type. E-wallets are the most popular overall, yet cash payments generate more revenue, especially in Naypyitaw. Credit card payments are least common but are most frequent among members compared to normal customers. Understanding these preferences helps in optimizing the payment process to enhance customer convenience and satisfaction.
+Payment method preferences vary by city and customer type. E-wallets are the most popular overall, yet cash payments generate more revenue, especially in Naypyitaw. Credit card payments are the least common but are most frequent among members compared to normal customers. Understanding these preferences helps in optimizing the payment process to enhance customer convenience and satisfaction.
 
 ### Customer Satisfaction and Ratings
 
@@ -35,4 +35,4 @@ Customer satisfaction, as measured by ratings, is highest in Naypyitaw, followed
 
 ### Conclusion
 
-This analysis highlights significant opportunities for targeted strategies that could lead to increased sales and customer satisfaction across the supermarket chain. By understanding and responding to the nuances in customer behavior and preferences, the supermarket can better meet the needs of its diverse customer base, leading to improved business outcomes.
+This analysis highlights significant opportunities for targeted strategies that could lead to increased sales and customer satisfaction across the supermarket chain. By understanding and responding to the nuances in customer behaviour and preferences, the supermarket can better meet the needs of its diverse customer base, leading to improved business outcomes.
