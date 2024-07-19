@@ -1,38 +1,87 @@
-## Supermarket Sales Analysis Report
-### Executive Summary
+# Supermarket Sales Analysis
 
-This report presents a comprehensive analysis of sales data from a supermarket chain with branches in Yangon, Mandalay, and Naypyitaw. The analysis covers various aspects such as sales by branch, customer demographics, product preferences, payment methods, and customer satisfaction. Key insights reveal significant differences in spending habits by gender, customer type, and city, as well as variations in the popularity of payment methods and product lines across different demographics.
+## Overview
+This project analyzes sales data from a supermarket chain operating in three cities in Myanmar: Yangon, Mandalay, and Naypyitaw. The analysis covers various aspects of the business, including branch performance, customer demographics, product lines, payment methods, and customer ratings.
 
-### Branch Performance
+## Table of Contents
+1. [Executive Summary](#executive-summary)
+2. [Key Findings](#key-findings)
+3. [Data Analysis](#data-analysis)
+4. [Visualizations](#visualizations)
+5. [Technologies Used](#technologies-used)
+6. [Setup and Usage](#setup-and-usage)
+7. [Recommendations](#recommendations)
+8. [Future Work](#future-work)
 
-The analysis reveals that Branch 'C' located in Naypyitaw not only achieves the highest gross income but also records the highest total sales compared to the other branches. This indicates a strong market presence in Naypyitaw and possibly better management or more favourable market conditions compared to Yangon and Mandalay, where performance metrics are notably similar to each other.
+## Executive Summary
+This analysis presents a comprehensive study of sales data from a supermarket chain with branches in Yangon, Mandalay, and Naypyitaw. The study covers various aspects such as sales by branch, customer demographics, product preferences, payment methods, and customer satisfaction. Key insights reveal significant differences in spending habits by gender, customer type, and city, as well as variations in the popularity of payment methods and product lines across different demographics.
 
-### Customer Insights
+## Key Findings
+- Branch 'C' in Naypyitaw has the highest gross income and total sales.
+- Members contribute slightly more to total sales than non-members across all cities.
+- Female customers generally spend more than male customers, despite men being more numerous in Yangon and Mandalay.
+- Food and Beverages is the highest-earning product line, while Health and Beauty ranks lowest.
+- E-wallet payments are the most common, but cash payments generate more income.
+- Branch 'C' in Naypyitaw receives the highest customer ratings.
 
-Customer analysis segmented by type (Member vs. Normal) indicates that members contribute slightly more to total sales than non-members across all cities, with Naypyitaw leading in member earnings followed by Mandalay and Yangon. This suggests a successful membership program, particularly in Naypyitaw, potentially linked to targeted promotions or member-exclusive offers.
+## Data Analysis
+The analysis covers several aspects:
 
-Gender-wise, women generally spend more than men, despite men being more in number in Yangon and Mandalay. Naypyitaw is an exception where there are more female customers, who also spend more. These insights could help tailor gender-specific marketing strategies to boost sales.
+1. Branch Performance
+   - Branch 'C' in Naypyitaw outperforms other branches' gross income and total sales.
+   - Yangon and Mandalay branches show similar performance metrics.
 
-### Product Line Sales
+2. Customer Type Analysis (Members vs Normal)
+   - Members have slightly higher total income compared to normal customers.
+   - Naypyitaw leads in member earnings, followed by Mandalay and Yangon.
 
-The product line analysis shows that Food and Beverages generate the highest income across the supermarket chain, while Health and Beauty ranks lowest. Men spend more on Health and Beauty compared to other product lines, whereas women spend more on Food and Beverages. This suggests potential for cross-promotion strategies or special offers in underperforming categories to balance the sales across product lines.
+3. Gender-based Purchase Patterns
+   - Women spend more in total than male customers.
+   - Naypyitaw is the only branch with more female customers than male customers.
 
-### Payment Preferences
+4. Product Line Performance
+   - Food and Beverages generate the highest income across the chain.
+   - Men spend more on Health and Beauty, while women spend more on Food and Beverages.
 
-Payment method preferences vary by city and customer type. E-wallets are the most popular overall, yet cash payments generate more revenue, especially in Naypyitaw. Credit card payments are the least common but are most frequent among members compared to normal customers. Understanding these preferences helps in optimizing the payment process to enhance customer convenience and satisfaction.
+5. Payment Method Preferences
+   - E-wallets are the most popular, but cash payments generate more revenue.
+   - Credit card payments are the least common but more frequent among members.
 
-### Customer Satisfaction and Ratings
+6. Customer Ratings
+   - The highest rated branch is Branch 'C', followed by 'A' and then 'B'.
+   - Women tend to give higher ratings than men.
+   - Food and Beverages have the highest average ratings.
 
-Customer satisfaction, as measured by ratings, is highest in Naypyitaw, followed by Yangon and then Mandalay. Women tend to give higher ratings than men, which aligns with the higher spending observed among female customers. Food and Beverages receive the highest ratings across product lines, suggesting customer satisfaction in this category is particularly strong.
+## Visualizations
 
-### Recommendations
+Two dashboards have been created in Tableau to visualize the key insights from this analysis:
 
+![supermarket branch analysis](supermarket%20branch%20analysis.png)
+
+![Supermarket Sales Analysis](Supermarket%20Sales%20Analysis.png)
+
+These dashboards provide a visual representation of the sales data, customer preferences, and branch performance.
+Tableau Link: https://public.tableau.com/app/profile/kristian3758/viz/SupermarketBranchAnalysis/supermarketbranchanalysis
+
+## Technologies Used
+- SQL (for data analysis)
+- Tableau (for data visualization)
+
+## Setup and Usage
+1. The SQL queries used for analysis are provided in the repository.
+2. To view the Tableau dashboards, have Tableau installed or access Tableau Public.
+3. The original dataset is included in this repository.
+
+## Recommendations
 1. Enhance Marketing Efforts in Naypyitaw: Given its performance, increasing marketing efforts in Naypyitaw could further enhance profitability.
 2. Tailor Promotions by Gender and City: Develop targeted marketing strategies that cater to the predominant gender in each city to increase sales.
 3. Expand Membership Benefits: Encourage more customers to become members, especially in cities like Yangon and Mandalay, by offering exclusive benefits.
 4. Optimize Payment Systems: Improve and promote payment methods that align with customer preferences in each city to enhance convenience.
 5. Boost Underperforming Categories: Use promotions or bundled offers to increase sales in less popular categories like Health and Beauty, particularly among men.
 
-### Conclusion
-
-This analysis highlights significant opportunities for targeted strategies that could lead to increased sales and customer satisfaction across the supermarket chain. By understanding and responding to the nuances in customer behaviour and preferences, the supermarket can better meet the needs of its diverse customer base, leading to improved business outcomes.
+## Future Work
+- Implement predictive modelling to forecast future sales trends.
+- Conduct a more detailed analysis of seasonal trends and their impact on sales.
+- Explore the correlation between customer ratings and sales performance.
+- Analyze the effectiveness of different payment methods in driving sales.
+- Investigate the impact of promotional activities on member vs non-member purchases.
