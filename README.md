@@ -14,7 +14,7 @@ This project analyzes sales data from a supermarket chain operating in three cit
 8. [Future Work](#future-work)
 
 ## Executive Summary
-This analysis presents a comprehensive study of sales data from a supermarket chain with branches in Yangon, Mandalay, and Naypyitaw. The study covers various aspects such as sales by branch, customer demographics, product preferences, payment methods, and customer satisfaction. Key insights reveal significant differences in spending habits by gender, customer type, and city, as well as variations in the popularity of payment methods and product lines across different demographics.
+This analysis presents a comprehensive study of sales data from a supermarket chain with branches in Yangon, Mandalay, and Naypyitaw. The study covers various aspects such as sales by branch, customer demographics, product preferences, payment methods, and customer satisfaction. The findings provide actionable insights that can guide marketing strategies, operational improvements, and regional expansion decisions.
 
 ## Key Findings
 - Branch 'C' in Naypyitaw has the highest gross income and total sales.
